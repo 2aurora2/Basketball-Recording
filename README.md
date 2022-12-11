@@ -11,4 +11,4 @@
 
 ## 界面展示
 
-<img src="interface.jpg" alt="图片" style="zoom: 33%;" />
+<img src="interface.jpg" alt="图片" style="zoom: 10%;" />
