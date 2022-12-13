@@ -1,7 +1,7 @@
 # Score-Recording-For-Basketball
-篮球计时计分器——基于java的android开发的简单app
+Basketball scorer - a simple app developed on android based on java
 
-## 功能
+## functions
 
 * TURN键可转换不同国家的国旗
 * 计时器的START(开始)以及RESET(重置)
